@@ -2516,6 +2516,10 @@
 			width: 40%;
 		}
 
+		.filmedin {
+			height: 10%;
+			width: 10%;
+		}
 		.spotlight .newImage{
 			-moz-order: 3;
 			-webkit-order: 3;
