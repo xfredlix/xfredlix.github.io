@@ -31,6 +31,10 @@
 		margin-bottom: 5%;
 	}
 
+	.snacktime {
+		height: 900px;
+		width: 400px;
+	}
 	article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
 		display: block;
 	}
